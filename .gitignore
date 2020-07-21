@@ -1,0 +1,13 @@
+# sbt
+target/
+build/
+
+# intellij idea
+*.iml
+.idea
+
+# mac
+.DS_Store
+
+#jar
+*.jar
